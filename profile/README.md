@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://captureapi.com/logo.png](https://captureapi.net/captureapi-icon.png)" width="120" alt="Capture API Logo">
+  <img src="https://captureapi.net/captureapi-icon.png" width="120" alt="Capture API Logo">
 </p>
 
 <h1 align="center">Capture API</h1>
@@ -18,16 +18,14 @@ Fast API for capturing website screenshots and webpage previews.
 </p>
 
 <p align="center">
-
 <a href="https://captureapi.com">🌐 Website</a> •
 <a href="https://captureapi.com/docs">📚 Docs</a> •
 <a href="https://api.captureapi.com">⚡ API</a>
-
 </p>
 
 ---
 
-# 🚀 Chrome Extension
+## 🚀 Chrome Extension
 
 <p align="center">
 
@@ -41,7 +39,7 @@ Fast API for capturing website screenshots and webpage previews.
 
 </p>
 
-Full Page Screenshot Chrome Extension built by Capture API.
+Full Page Screenshot Chrome Extension built by **Capture API**.
 
 ✔ Capture entire webpage  
 ✔ Export screenshots instantly  
@@ -49,19 +47,20 @@ Full Page Screenshot Chrome Extension built by Capture API.
 ✔ Works on any website  
 
 Install from Chrome Web Store:
+
 https://chromewebstore.google.com/detail/full-page-screenshot-scre/ppgnmecncgafcagagjbidcofpnooepin
 
 ---
 
-## Use Cases
+# ⚡ Use Cases
 
-* Website preview thumbnails
-* SEO monitoring and audits
-* Visual regression testing
-* Content archiving
-* Competitor tracking
-* Social media preview generation
-* Automated reporting tools
+- Website preview thumbnails
+- SEO monitoring and audits
+- Visual regression testing
+- Content archiving
+- Competitor tracking
+- Social media preview generation
+- Automated reporting tools
 
 ---
 
