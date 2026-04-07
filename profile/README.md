@@ -1,18 +1,55 @@
-# Capture API
+<p align="center">
+  <img src="[https://captureapi.com/logo.png](https://captureapi.net/captureapi-icon.png)" width="120" alt="Capture API Logo">
+</p>
 
-Capture API is a fast and developer-friendly REST API that allows you to capture screenshots of any public website. It is designed for developers who need reliable website previews, automated visual captures, and scalable screenshot generation.
+<h1 align="center">Capture API</h1>
+
+<p align="center">
+Fast API for capturing website screenshots and webpage previews.
+</p>
+
+<p align="center">
+
+![API](https://img.shields.io/badge/API-CaptureAPI-blue)
+![License](https://img.shields.io/badge/license-MIT-green)
+![Platform](https://img.shields.io/badge/platform-REST-orange)
+![GitHub Org](https://img.shields.io/badge/GitHub-capture--api-black)
+
+</p>
+
+<p align="center">
+
+<a href="https://captureapi.com">🌐 Website</a> •
+<a href="https://captureapi.com/docs">📚 Docs</a> •
+<a href="https://api.captureapi.com">⚡ API</a>
+
+</p>
 
 ---
 
-## Features
+# 🚀 Chrome Extension
 
-* Capture full-page website screenshots
-* High-resolution image output
-* Mobile and desktop viewport support
-* Fast and reliable API responses
-* Secure API key authentication
-* Simple REST API integration
-* Scalable cloud infrastructure
+<p align="center">
+
+<a href="https://chromewebstore.google.com/detail/full-page-screenshot-scre/ppgnmecncgafcagagjbidcofpnooepin">
+
+![Chrome Web Store](https://img.shields.io/badge/Chrome%20Extension-Install-blue?logo=googlechrome)
+![Chrome Web Store Users](https://img.shields.io/chrome-web-store/users/ppgnmecncgafcagagjbidcofpnooepin)
+![Chrome Web Store Rating](https://img.shields.io/chrome-web-store/rating/ppgnmecncgafcagagjbidcofpnooepin)
+
+</a>
+
+</p>
+
+Full Page Screenshot Chrome Extension built by Capture API.
+
+✔ Capture entire webpage  
+✔ Export screenshots instantly  
+✔ Fast and lightweight  
+✔ Works on any website  
+
+Install from Chrome Web Store:
+https://chromewebstore.google.com/detail/full-page-screenshot-scre/ppgnmecncgafcagagjbidcofpnooepin
 
 ---
 
