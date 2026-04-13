@@ -18,9 +18,9 @@ Fast API for capturing website screenshots and webpage previews.
 </p>
 
 <p align="center">
-<a href="https://captureapi.com">🌐 Website</a> •
-<a href="https://captureapi.com/docs">📚 Docs</a> •
-<a href="https://api.captureapi.com">⚡ API</a>
+<a href="https://captureapi.net">🌐 Website</a> •
+<a href="https://captureapi.net/docs">📚 Docs</a> •
+<a href="https://api.captureapi.net">⚡ API</a>
 </p>
 
 ---
@@ -67,7 +67,7 @@ https://chromewebstore.google.com/detail/full-page-screenshot-scre/ppgnmecncgafc
 ## Example API Request
 
 ```bash
-curl "https://api.captureapi.com/screenshot?url=https://example.com&apikey=YOUR_API_KEY"
+curl "https://api.captureapi.net/screenshot?url=https://example.com&apikey=YOUR_API_KEY"
 ```
 
 ---
@@ -78,7 +78,7 @@ curl "https://api.captureapi.com/screenshot?url=https://example.com&apikey=YOUR_
 {
   "success": true,
   "url": "https://example.com",
-  "screenshot": "https://cdn.captureapi.com/screenshots/example.png"
+  "screenshot": "https://cdn.captureapi.net/screenshots/example.png"
 }
 ```
 
@@ -87,7 +87,7 @@ curl "https://api.captureapi.com/screenshot?url=https://example.com&apikey=YOUR_
 ## JavaScript Example
 
 ```javascript
-fetch("https://api.captureapi.com/screenshot?url=https://example.com&apikey=YOUR_API_KEY")
+fetch("https://api.captureapi.net/screenshot?url=https://example.com&apikey=YOUR_API_KEY")
   .then(response => response.json())
   .then(data => console.log(data));
 ```
@@ -118,7 +118,7 @@ apikey=YOUR_API_KEY
 
 ## Website
 
-https://captureapi.com
+https://captureapi.net
 
 ---
 
